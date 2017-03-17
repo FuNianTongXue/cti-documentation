@@ -18,7 +18,7 @@ layout: default
           <span class="glyphicon glyphicon-list-alt"></span> Read the Latest Specification! (2.0 CSD 1)
         </a>
         <a class="btn btn-primary btn-spec" data-toggle="tooltip" title="STIX Review" href="https://oasis-open.github.io/cti-documentation/stix/review">
-          <span class="glyphicon glyphicon-list-alt"></span> STIX 2.0 Public Review – Frequently Asked Questions
+          <span class="glyphicon glyphicon-list-alt"></span> STIX 2.0 - Request for Public Review
         </a>
       </div>      
       <div class="panel-body">
